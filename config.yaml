@@ -9,4 +9,4 @@ keywords:
         g2o: 1
 
 # 通知の閾値
-score_threshold: 4
+score_threshold: 0
